@@ -14,5 +14,5 @@ Functionalities to test:
 5. View the details of single product
 
 Remaining things:
-1. Better styling of components
-2.  Detail view of each compoent
+1. Better styling of components in mobile view
+2.  Detail view of each product
