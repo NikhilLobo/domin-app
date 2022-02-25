@@ -1,36 +1,74 @@
 {
-    "collections": [
-      {
-        "id":1,
-        "code": "SN0000f43",
-        "type": "S4 Pro",
-        "location": "Site1, Cheddar, UK",
-        "status": "true",
-        "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/S4_Pro_Homepage.png?v=1608112774"
-      },
-      {
-        "id":2,
-        "code": "SN0000g96",
-        "type": "S6 Pro",
-        "location": "Site 1, Cheddar, UK",
-        "status": "false",
-        "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/S6_Pro_Homepage.png?v=1608112915"
-      },
-      {
-        "id":3,
-        "code": "SN0000h56",
-        "type": "FAST",
-        "location": "Vehicale 1, Chester, UK",
-        "status": "true",
-        "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/S6_Pro_X.png?v=1645635757"
-      },
-      {
-        "id":4,
-        "code": "SN0000m90",
-        "type": "S7 Pro",
-        "location": "Site1, Cheddar, UK",
-        "status": "true",
-        "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/S6_Pro_X.png?v=1645635757"
-      }
-    ]
-  }
+  "collections": [
+    {
+      "id": 1,
+      "code": "SN0000f43",
+      "type": "S4 Pro",
+      "location": "Site1, Cheddar, UK",
+      "status": "Active",
+      "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/S4_Pro_Homepage.png?v=1608112774"
+    },
+    {
+      "id": 2,
+      "code": "SN0000g96",
+      "type": "S6 Pro",
+      "location": "Site 1, Cheddar, UK",
+      "status": "Error",
+      "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/S6_Pro_Homepage.png?v=1608112915"
+    },
+    {
+      "id": 3,
+      "code": "SN0000h56",
+      "type": "FAST",
+      "location": "Vehicale 1, Chester, UK",
+      "status": "Active",
+      "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/S6_Pro_X.png?v=1645635757"
+    },
+    {
+      "id": 4,
+      "code": "SN0000m90",
+      "type": "S7 Pro",
+      "location": "Site1, Cheddar, UK",
+      "status": "Active",
+      "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/S6_Pro_X.png?v=1645635757"
+    },
+    {
+      "type": "S8 PRO",
+      "code": "SN000000999",
+      "location": "Taunton",
+      "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/We_Can_Do_this.png?v=1609964394",
+      "id": 5
+    },
+    {
+      "type": "S8 PRO",
+      "code": "SN000000999",
+      "location": "Taunton",
+      "image": "https://cdn.shopify.com/s/files/1/0502/7817/0780/files/We_Can_Do_this.png?v=1609964394",
+      "id": 6
+    },
+    {
+      "type": "fsdf",
+      "code": "fefsf",
+      "location": "fefsf",
+      "image": "efsf",
+      "status": "fesff",
+      "id": 7
+    },
+    {
+      "type": "Clevita",
+      "code": "1111",
+      "location": "Bristol",
+      "image": "https://devapp.virtuallucyweb.co.uk/static/images/AXA.png",
+      "status": "Active",
+      "id": 8
+    },
+    {
+      "type": "sfsf",
+      "code": "sfsf",
+      "location": "fsf",
+      "image": "sfsfsf",
+      "status": "sffs",
+      "id": 9
+    }
+  ]
+}
